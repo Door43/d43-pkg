@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pkg:home|Door43 (pkg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pkg|d43-pkg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pkg/archive/master.zip|d43-pkg.zip]]
+
+**Recent Changes**
+{{changes>ns = pkg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pkg|Ethnologue data]]
+
